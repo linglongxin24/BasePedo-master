@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notification.png",
+        "source": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\src\\main\\res\\drawable\\ic_notification.png"
+    },
+    {
+        "merged": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\build\\intermediates\\res\\merged\\debug\\drawable\\line40.png",
+        "source": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\src\\main\\res\\drawable\\line40.png"
+    }
+]

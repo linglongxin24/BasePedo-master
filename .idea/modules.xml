@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasePedo-master.iml" filepath="$PROJECT_DIR$/BasePedo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pedometer/pedometer.iml" filepath="$PROJECT_DIR$/pedometer/pedometer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runningcadence/runningcadence.iml" filepath="$PROJECT_DIR$/runningcadence/runningcadence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-pedometer/simple-pedometer.iml" filepath="$PROJECT_DIR$/simple-pedometer/simple-pedometer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stepDemp/stepDemp.iml" filepath="$PROJECT_DIR$/stepDemp/stepDemp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stepsensors/stepsensors.iml" filepath="$PROJECT_DIR$/stepsensors/stepsensors.iml" />
+    </modules>
+  </component>
+</project>

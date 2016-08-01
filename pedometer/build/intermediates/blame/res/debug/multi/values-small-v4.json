@@ -1,0 +1,311 @@
+[
+    {
+        "outputFile": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\build\\intermediates\\res\\merged\\debug\\values-small-v4\\values-small-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 559,
+                        "endColumn": 41,
+                        "endOffset": 596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 37,
+                    "endOffset": 130
+                },
+                "from": {
+                    "file": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 315,
+                        "endColumn": 37,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 135,
+                    "endColumn": 42,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 353,
+                        "endColumn": 42,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 43,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 219,
+                        "endColumn": 43,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 50,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 50,
+                        "endOffset": 309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 42,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 42,
+                        "endOffset": 54
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 37,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 37,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 354,
+                    "endColumn": 37,
+                    "endOffset": 387
+                },
+                "from": {
+                    "file": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 435,
+                        "endColumn": 37,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 392,
+                    "endColumn": 42,
+                    "endOffset": 430
+                },
+                "from": {
+                    "file": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 42,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 435,
+                    "endColumn": 42,
+                    "endOffset": 473
+                },
+                "from": {
+                    "file": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 473,
+                        "endColumn": 42,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 478,
+                    "endColumn": 42,
+                    "endOffset": 516
+                },
+                "from": {
+                    "file": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 42,
+                        "endOffset": 135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 521,
+                    "endColumn": 41,
+                    "endOffset": 558
+                },
+                "from": {
+                    "file": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 41,
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 563,
+                    "endColumn": 47,
+                    "endOffset": 606
+                },
+                "from": {
+                    "file": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 601,
+                        "endColumn": 47,
+                        "endOffset": 644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 611,
+                    "endColumn": 54,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 649,
+                        "endColumn": 54,
+                        "endOffset": 699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endColumn": 36,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endColumn": 36,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 36,
+                    "endOffset": 735
+                },
+                "from": {
+                    "file": "E:\\kejiang\\sample\\BasePedo-master\\pedometer\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endColumn": 36,
+                        "endOffset": 92
+                    }
+                }
+            }
+        ]
+    }
+]

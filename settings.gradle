@@ -1,0 +1,6 @@
+include ':app', ':runningcadence'
+
+include ':stepDemp'
+include ':stepsensors'
+include ':pedometer'
+include ':simple-pedometer'
